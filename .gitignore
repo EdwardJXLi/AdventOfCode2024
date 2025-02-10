@@ -1,0 +1,6 @@
+# Everything except main.py files and aoc_utils
+# It excludes all my testing junk
+*/*
+!main.py
+!aoc_utils
+#!aoc_utils/*

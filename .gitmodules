@@ -1,0 +1,3 @@
+[submodule "aoc_utils"]
+	path = aoc_utils
+	url = https://github.com/EdwardJXLi/aoc_utils

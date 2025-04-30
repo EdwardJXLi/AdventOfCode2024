@@ -1,5 +1,7 @@
 # AdventOfCode 2024 Solutions 🎄
 
+> ⚠️ NOTE: All of these solutions were coded live, by hand, and without the use of AI. 
+
 My personal solutions to [Advent of Code 2024](https://adventofcode.com/2024/), written in Python with my custom [aoc_utils](https://github.com/EdwardJXLi/aoc_utils) library.
 
 > Disclaimer: These solutions have been built and tested against my own inputs. I cannot guarantee this works with all possible permutations.
